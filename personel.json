@@ -1,0 +1,309 @@
+ "Öğretim Üyeleri"{
+	"p1":{
+		"personel adi" : "Oğuz DİKENELLİ, Prof.Dr.",
+		"unvani" :  "Bölüm Başkanı",
+		"telefon" : "0232 388 72 21",
+		"e-posta" : "oguz.dikenelli@ege.edu.tr",
+	},
+
+	"p2":{
+		"personel adi" : "Serdar KORUKOĞLU, Prof.Dr.",
+		"unvani" :  "Uluslararası Bilgisayar Enstitüsü Müdürü Vekili /Bilgisayar Bilimleri Ana Bilim Dalı Başkanı",
+		"telefon" : "0232 311 25 86",
+		"e-posta" : "serdar.korukoglu@ege.edu.tr",		
+	},
+
+	"p3":{
+		"personel adi" : "Levent TOKER, Prof.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 25 85",
+		"e-posta" : "toker1960@gmail.com",
+	},
+
+	"p4":{
+		"personel adi" : "Yasemin TOPALOĞLU, Prof.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 25 91",
+		"e-posta" : "yasemin.topaloglu@ege.edu.tr",
+	},
+
+	"p5":{
+		"personel adi" : "Aylin KANTARCI, Prof.Dr.",
+		"unvani" :  "Bilgisayar Donanımı Ana Bilim Dalı Başkanı",
+		"telefon" : "0232 311 53 16",
+		"e-posta" : "aylin.kantarci@ege.edu.tr",
+	},
+
+	"p6":{
+		"personel adi" : "Aybars UĞUR, Prof.Dr.",
+		"unvani" :  "Bilgisayar Yazılımı Ana Bilim Dalı Başkanı",
+		"telefon" : "0232 311 53 22",
+		"e-posta" : "aybars.ugur@ege.edu.tr",
+	},
+
+	"p7":{
+		"personel adi" : "Rıza Cenk ERDUR, Doç.Dr.",
+		"unvani" :  "Bölüm Başkan Yardımcısı",
+		"telefon" : "0232 311 25 97",
+		"e-posta" : "cenk.erdur@ege.edu.tr",
+	},
+
+	"p8":{
+		"personel adi" : "Murat Osman ÜNALIR, Doç.Dr.",
+		"unvani" :  "Bölüm Başkan Yardımcısı",
+		"telefon" : "0232 311 25 90",
+		"e-posta" : "murat.osman.unalir@ege.edu.tr",
+	},
+
+	"p9":{
+		"personel adi" : "Vecdi AYTAÇ, Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 53 24",
+		"e-posta" : "vecdi.aytac@ege.edu.tr",
+	},
+
+	"p10":{
+		"personel adi" : "Şebnem BORA, Yrd.Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 25 84",
+		"e-posta" : "sebnem.bora@ege.edu.tr",
+	},
+
+	"p11":{
+		"personel adi" : "Hasan BULUT, Yrd.Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 25 96",
+		"e-posta" : "hasan.bulut@ege.edu.tr",
+	},
+
+	"p12":{
+		"personel adi" : "Özgür GÜMÜŞ, Yrd.Doç.Dr.",
+		"unvani" :  "Bölüm Staj Koordinatörü",
+		"telefon" : "0232 311 53 28",
+		"e-posta" : "ozgur.gumus@ege.edu.tr",
+	},
+
+	"p13":{
+		"personel adi" : "Özgü CAN, Yrd.Doç.Dr.",
+		"unvani" :  "Bölüm Bitirme Projeleri Koordinatörü",
+		"telefon" : "0232 311 53 32",
+		"e-posta" : "ozgu.can@ege.edu.tr",
+	},
+
+	"p14":{
+		"personel adi" : "Ahmet EGESOY, Yrd.Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 53 34",
+		"e-posta" : "ahmet.egesoy@ege.edu.tr",
+	},
+
+	"p15":{
+		"personel adi" : "Kasım Sinan YILDIRIM, Yrd.Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 53 26",
+		"e-posta" : "sinan.yildirim@ege.edu.tr",
+	},
+
+	"p16":{
+		"personel adi" : "Emine SEZER, Yrd.Doç.Dr.",
+		"unvani" :  "Öğretim Üyesi",
+		"telefon" : "0232 311 25 95",
+		"e-posta" : "emine.sezer@ege.edu.tr",
+	},
+	}
+
+	"Akadmik Yardımcı"{
+	"a1":{
+		"personel adi" : "Özgün YILMAZ",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 19",
+		"e-posta" : "ozgun.yilmaz@ege.edu.tr",
+	},
+
+	"a2":{
+		"personel adi" : "Birol ÇİLOĞLUGİL",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 25 93",
+		"e-posta" : "birol.ciloglugil@ege.edu.tr",
+	},
+
+	"a3":{
+		"personel adi" : "Oylum ALATLI",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 21",
+		"e-posta" : "oylum.alatli@ege.edu.tr",
+	},
+
+	"a4":{
+		"personel adi" : "Okan BURSA",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 36",
+		"e-posta" : "okan.bursa@ege.edu.tr",
+	},
+
+	"a5":{
+		"personel adi" : "Önder EKER",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 10",
+		"e-posta" : "onder.eker@ege.edu.tr",
+	},
+
+	"a6":{
+		"personel adi" : "Osman GÖKALP",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 31",
+		"e-posta" : "osman.gokalp@ege.edu.tr",
+	},
+
+	"a7":{
+		"personel adi" : "Erdal TAŞCI",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 25 94",
+		"e-posta" : "arif.erdal.tasci@ege.edu.tr",
+	},
+
+	"a8":{
+		"personel adi" : "Hatice ULUER",
+		"unvani" :  "Biyoistatistik ve Tıbbi Bilişim ABD'de Görevli",
+		"telefon" : "0232 390 44 07",
+		"e-posta" : "hatice.uluer@ege.edu.tr",
+	},
+
+	"a9":{
+		"personel adi" : "Fatmana ŞENTÜRK",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 35",
+		"e-posta" : "fatmana.senturk@ege.edu.tr",
+	},
+
+	"a10":{
+		"personel adi" : "Ensar Arif SAĞBAŞ",
+		"unvani" :  "Araştırma Görevlisi",
+		"telefon" : "0232 311 53 31",
+		"e-posta" : " ",
+	},
+
+	"a11":{
+		"personel adi" : "Remzi ÇELEBİ",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 10",
+		"e-posta" : "remzi.celebi@ege.edu.tr",
+	},
+
+	"a12":{
+		"personel adi" : "Rabia KORKMAZ TAN",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 09",
+		"e-posta" : "rabia.korkmaz@ege.edu.tr",
+	},
+	
+	"a13":{
+		"personel adi" : "Sevcan EMEK",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 20",
+		"e-posta" : "sevcan.emek@ege.edu.tr",
+	},
+
+	"a14":{
+		"personel adi" : "Emrah İNAN",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 08",
+		"e-posta" : "emrah.inan@ege.edu.tr",
+	},
+
+	"a15":{
+		"personel adi" : "Musa MİLLİ",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 25 94",
+		"e-posta" : "musa.milli@ege.edu.tr",
+	},
+
+	"a16":{
+		"personel adi" : "Erkan YAŞAR",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 10",
+		"e-posta" : "erkan.yasar@ege.edu.tr",
+	},
+
+	"a17":{
+		"personel adi" : "Sema BODUR",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 09",
+		"e-posta" : "sema.bodur@ege.edu.tr",
+	},
+
+	"a18":{
+		"personel adi" : "Sinem ÇINAROĞLU",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 09",
+		"e-posta" : "sinem.oren@ege.edu.tr",
+	},
+
+	"a19":{
+		"personel adi" : "Beste KAYSI",
+		"unvani" :  "ÖYP Araştırma Görevlisi",
+		"telefon" : "0232 311 53 35",
+		"e-posta" : "beste.kaysi@ege.edu.tr",
+	},
+	}
+
+	"İdari Teknik"
+	{
+	"i1":{
+		"personel adi" : "Sibel DEMİREL",
+		"unvani" :  "Bölüm Sekreteri",
+		"telefon" : "0232 388 72 21",
+		"e-posta" : "bilmuh@mail.ege.edu.tr",
+	},
+
+	"i2":{
+		"personel adi" : "Şevket YILDIZ",
+		"unvani" :  "Bölüm Sekreteri",
+		"telefon" : "0232 388 72 21",
+		"e-posta" : "sevket.yildiz@ege.edu.tr",
+	},
+
+	"i3":{
+		"personel adi" : "Beyhan KILIÇ",
+		"unvani" :  "Öğrenci İşleri Sorumlusu",
+		"telefon" : "0232 311 20 87",
+		"e-posta" : " ",
+	},
+
+	"i4":{
+		"personel adi" : "Faruk ERAT",
+		"unvani" :  "Danışma",
+		"telefon" : "0232 311 53 13",
+		"e-posta" : "faruk.erat@ege.edu.tr",
+	},
+
+	"i5":{
+		"personel adi" : "Hayriye UYGUN",
+		"unvani" :  "Hizmetli",
+		"telefon" : "0232 311 53 33",
+		"e-posta" : " ",
+	},
+
+	"i6":{
+		"personel adi" : "Okan ÇORBACIOĞLU",
+		"unvani" :  "Hizmetli",
+		"telefon" : "0232 311 53 33",
+		"e-posta" : " ",
+	},
+
+	"i7":{
+		"personel adi" : "Mehmet KUZU",
+		"unvani" :  "Hizmetli",
+		"telefon" : "0232 311 53 33",
+		"e-posta" : " ",
+	},
+
+	"i8":{
+		"personel adi" : "Fatma ÖZYURT",
+		"unvani" :  "Hizmetli",
+		"telefon" : "0232 311 53 33",
+		"e-posta" : " ",
+	},
+	}
+
+

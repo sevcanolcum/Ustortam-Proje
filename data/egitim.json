@@ -1,0 +1,165 @@
+{"program": "Yüksek Lisans"}
+{
+  "Guz"{
+    {
+      "ders adi":"Yapay Zeka",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Pazartesi"
+    },
+    {
+      "ders adi":"Model Tabanlı Yazılım Müh.",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Salı"
+    },
+    {
+      "ders adi":"Büyük Veri",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Salı"
+    },
+    {
+      "ders adi":"İleri Algoritma Analizi",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Salı"
+    },
+    {
+      "ders adi":"Model Tabanlı Yazılım Müh.",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Salı"
+    },
+    {
+      "ders adi":"Bilimsel Araştırma ve Yayın Etiği (YL)",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Salı"
+    },
+    {
+      "ders adi":"Sayısal Görüntü İşleme",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Çarşamba"
+    },
+    {
+      "ders adi":"  Dağıtık Sistemler",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Çarşamba"
+    },
+    {
+      "ders adi":"Bilgisayar Uyg. Çizge Kuramı",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Perşembe"
+    },
+    {
+      "ders adi":"Dağıtık Sistemler için Algoritmalar",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Perşembe"
+    },
+    {
+      "ders adi":"Sistem Benzetimi",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Cuma"
+    },
+    {
+      "ders adi":"Mobil ve Kablosuz Ağlar",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Cuma"
+    },
+    {
+      "ders adi":"Bilgisayar Ağı İşletim Sistemleri",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Cuma"
+    }
+  },
+  "Bahar"{
+    {
+      "ders adi":"Programlama Paradigmaları",
+      "ders saati":"09:30-12:15",
+      "ders günü": "Pazartesi"
+    },
+      {
+      "ders adi":"Anlamsal Web Servisleri",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Pazartesi"
+    },
+      {
+      "ders adi":"Zeki Sistemler",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Salı"
+    },
+      {
+      "ders adi":"Biyoinformatik Algoritmaları",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Çarşamba"
+    },
+      {
+      "ders adi":"Bilgisayar Ağı Tasarımı ve Yönetimi",
+      "ders saati":"13:15-16:00",
+      "ders günü": "Cuma"
+    }
+
+}
+},
+
+
+{"program":"Lisans"}
+{
+  "Guz"{
+    "1.Sinif"{
+    {"ders kodu":501001071994, "ders adi": "ALGORİTMA VE PROGRAMLAMA-I"},
+    {"ders kodu":501001022006, "ders adi": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I"},
+    {"ders kodu":501001052007, "ders adi": "FİZİK-I"},
+    {"ders kodu":501001042010, "ders adi": "MATEMATİK-I"},
+    {"ders kodu":501001212012, "ders adi": "SÖZLÜ VE YAZILI İLETİŞİM"},
+    {"ders kodu":501001082007, "ders adi": "TECHNICAL ENGLISH"},
+    {"ders kodu":501001012006, "ders adi": "TÜRK DİLİ I"},
+    {"ders kodu":501001192011, "ders adi": "ÜNİVERSİTE YAŞAMINA GEÇİŞ""}
+    }
+    "2.Sinif"{
+    {"ders kodu":501002252010, "ders adi": "AUTOMATA THEORY"},
+    {"ders kodu":501002042010, "ders adi": "DATA STRUCTURES"},
+    {"ders kodu":501002021996, "ders adi": "DİFERANSİYEL DENKLEMLER"},
+    {"ders kodu":501001042010, "ders adi": "ELECTRICAL CIRCUITS"},
+    {"ders kodu":501002231999, "ders adi": "MANTIK DEVRELERİ TASARIMI"},
+    {"ders kodu":501002102010, "ders adi": "OLASILIK VE İSTATİSTİK"}
+    }
+    "3.Sinif"{
+    {"ders kodu":501003452015, "ders adi": "BİLGİSAYAR AĞLARI"},
+    {"ders kodu":501003222010, "ders adi": "DATABASE MANAGEMENT"},
+    {"ders kodu":501003312013, "ders adi": "İŞLETİM SİSTEMLERİ""},
+    {"ders kodu":501003412009, "ders adi": "MİKROİŞLEMCİLER"},
+    {"ders kodu":501003242004, "ders adi": "NESNEYE DAYALI PROGRAMLAMA"}
+    }
+    "4.Sinif"{
+    {"ders kodu":501004051998, "ders adi": "BİTİRME TEZİ"},
+    {"ders kodu":501004652015, "ders adi": "İŞ SAĞLIĞI VE GÜVENLİĞİ I"},
+    {"ders kodu":501004472014, "ders adi": "SOFTWARE ENGINEERING"}
+    }
+  },
+  "Bahar"{
+    "1.Sinif"{
+      {"ders kodu":501001121998, "ders adi": "ALGORİTMA VE PROGRAMLAMA-II"},
+      {"ders kodu":501000942006, "ders adi": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II"},
+      {"ders kodu":501001112010, "ders adi": "AYRIK YAPILAR"},
+      {"ders kodu":501001102007, "ders adi": "FİZİK-II"},
+      {"ders kodu":501001162010, "ders adi": "INTRODUCTION TO COMPUTER SCIENCE"},
+      {"ders kodu":501001092010, "ders adi": "MATEMATİK-II"},
+      {"ders kodu":501000922006, "ders adi": "TÜRK DİLİ II"},
+      }
+      "2.Sinif"{
+      {"ders kodu":501002242010, "ders adi": "DIGITAL COMPUTER DESIGN"},
+      {"ders kodu":501002132010, "ders adi": "DIGITAL ELECTRONICS"},
+      {"ders kodu":501002112010, "ders adi": "DOĞRUSAL CEBİR VE NÜMERİK YÖNTEMLER"},
+      {"ders kodu":501002262008, "ders adi": "MODERN BİYOLOJİ"},
+      {"ders kodu":501002191998, "ders adi": "PROGRAMMING LANGUAGES"},
+      {"ders kodu":"10520101T11228", "ders adi": "TOPLUMA HİZMET UYGULAMALARI"}
+      }
+      "3.Sinif"{
+      {"ders kodu":501003452015, "ders adi": "ANALYSIS OF ALGORITHMS"},
+      {"ders kodu":501003222010, "ders adi": "MICROCONTROLLER BASED SYSTEM DESIGN"},
+      {"ders kodu":501003312013, "ders adi": "OBJECT ORIENTED ANALYSIS AND DESIGN"},
+      {"ders kodu":501003412009, "ders adi": "STAJ"}
+      }
+      "4.Sinif"{
+      {"ders kodu":501004051998, "ders adi": "BİTİRME TEZİ""},
+      {"ders kodu":501004452010, "ders adi": "COMPUTER ARCHITECTURE"},
+      {"ders kodu":501004602015, "ders adi": "İŞ SAĞLIĞI VE GÜVENLİĞİ II"},
+      {"ders kodu":501004082010, "ders adi": "YÖNEYLEM ARAŞTIRMASI"}
+      }
+}
